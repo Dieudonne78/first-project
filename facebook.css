@@ -1,0 +1,103 @@
+
+*{padding: 0;margin: 0;}
+body{
+	font-family: Roboto,Arial;
+	border: none;
+}
+p{font-size: 12px;color: #8A8D91;}
+.p-one{margin-bottom: 12px;}
+.p-two{margin-top: 12px;}
+.p-two,
+.p-three,
+.p-four{margin-bottom: 3px;}
+.p-meta{margin-top: 30px;}
+.container{
+	display: flex;
+	margin-top: 15px;
+	background-color: #F0F2F5;
+	padding-top: 120px;
+	height: 590px;
+}
+input{
+	display: block;
+	width: 360px;
+	height: 50px;
+	font-size: 16px;
+	border-radius: 6px;
+	border: 1px solid lightgray;
+	padding-left: 15px;
+}
+
+.input-password{
+	margin: 10px 0 15px 0;
+}
+
+.log-in-button{
+	width: 380px;
+	height: 50px;
+	border: none;
+	border-radius: 6px;
+	background-color: #0866FF;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.reset-password{
+	color: #0866FF;
+	text-align: center;
+	margin: 15px 0 15px 0;
+}
+
+.create-account{
+	height: 45px;
+	width: 200px;
+	background-color: #42B72A;
+	border: none;
+	border-radius: 6px;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 25px 0 5px 0;
+	margin-left: 100px;
+}
+
+img{width: 300px;
+	margin-top:45px;
+	margin-left: -25px;
+}
+.facebook-role{
+	font-size: 25px;
+	width: 400px;
+	margin-top: -10px;
+}
+
+.about-facebook{margin-left: 300px;}
+
+.registration-create-page{
+	margin-left: 150px;
+	margin-top: -10px;
+}
+.registration{
+	background-color: white;
+	padding: 10px 10px 20px 10px;
+	border-radius: 12px;
+}
+.creata-page{
+	color: #1C1E21;
+	font-size: 14px;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.creata-page-span{
+	font-weight: bold;
+	font-size: 14px;
+}
+.last-paragraphs{
+	background-color:white;
+	padding-left: 300px;
+	padding-right: 200px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
